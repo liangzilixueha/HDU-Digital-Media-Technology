@@ -1,7 +1,7 @@
-# HDU-Digital Media Technology
+# HDU-Digital Media Technology[](#开头)
  杭州电子科技大学数字媒体技术指南
 
-## 给共同开发者
+## 给共同开发者[](#给共同开发者)
 
 - 你们可以按照格式新建文件，把自己的所思所想写在上面
 

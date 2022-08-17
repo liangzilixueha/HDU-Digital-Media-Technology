@@ -33,7 +33,7 @@
 
 ## 关于电子书
 
-各种电子书素材基本来源于网络收集，由于GitHub的上传大小限制在25MB，所以上传的部分电子书是缩减大小版本，如果需要下载原始版本，可以前往[百度云分享](https://pan.baidu.com/s/1hhSJmw0TQMursGToWAzVOQ?pwd=3z26)下载，提取码：3z26
+各种电子书素材基本来源于网络收集，由于GitHub的上传大小限制在25MB，所以上传的部分电子书是缩减大小版本，部分过大的电子书无法上传至Github，如果需要下载全部原始版本，可以前往[百度云分享](https://pan.baidu.com/s/1hhSJmw0TQMursGToWAzVOQ?pwd=3z26)下载，提取码：3z26
 
 # 真正有用的，细致到每一门学课
 

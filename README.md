@@ -33,6 +33,10 @@
 
 [杭州电子科技大学培养方案2018-2021百度网盘](https://pan.baidu.com/s/1V_drzVfU9_B4FnbLJqJBZA?pwd=ebiu)
 
+[杭州电子科技大学培养方案2022百度网盘](https://pan.baidu.com/s/1OhlSpqqOnV1Yj2KaDzm_og?pwd=2022)
+
+[杭州电子科技大学培养方案2022夸克网盘](https://pan.quark.cn/s/29790b8d067f)
+
 ## 有关于转专业
 
 等待写入

@@ -259,6 +259,7 @@ HTML5.Games.with.CreateJS.pdf
 - [计算机图形学原理⭐](https://github.com/HanhaiNotHai/ComputerGraphics)
 - 数字媒体后期制作
 - [交互动画基础](大二上/交互动画基础)
+- [交互动画基础2022级参考](https://github.com/windpupil/2022HDU-Animation-Homework)
 - 数据结构⭐
 - 数据结构课程设计
 - 毛泽东思想和中国特色社会主义理论体系概论1

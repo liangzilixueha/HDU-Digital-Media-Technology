@@ -255,12 +255,14 @@ HTML5.Games.with.CreateJS.pdf
 ## 大二上
 
 - 体育3
-- 图像处理与分析
+- [三维建模技术](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/三维建模技术)
+- [图像处理与分析](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/图像处理与分析实验)
 - [计算机图形学原理⭐](https://github.com/HanhaiNotHai/ComputerGraphics)
-- 数字媒体后期制作
+- [计算机图形学原理大作业⭐](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/图形学大作业)
+- [数字媒体后期制作](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/AE)
 - [交互动画基础](大二上/交互动画基础)
-- [交互动画基础2022级参考](https://github.com/windpupil/2022HDU-Animation-Homework)
-- 数据结构⭐
+- [交互动画基础2022级参考](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/交互动画基础)
+- [数据结构⭐](https://github.com/windpupil/HDU-DigitalMediaTechnology/tree/main/数据结构)
 - 数据结构课程设计
 - 毛泽东思想和中国特色社会主义理论体系概论1
 - [网页前端技术](大二上/网页前端技术)

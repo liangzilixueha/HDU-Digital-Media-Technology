@@ -607,6 +607,7 @@ HTML5.Games.with.CreateJS.pdf
 - 形式与政策7、8
 - [作者忏悔录](/大四/忏悔录.md)
 - [游戏系统策划](https://github.com/windpupil/HDU-DigitalMediaTechnology/blob/main/%E6%9D%82%E8%B0%88/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92%E5%AE%9E%E4%B9%A0%E5%BF%83%E5%BE%97.md)
+- [c++岗位实习杂谈,来自大三树莓er](https://github.com/LearnerJhz/OnlyReadme)
 
 ## 校内学车
 
